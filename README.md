@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# react-book-list
+
+Simple React Component To Show Book List
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
