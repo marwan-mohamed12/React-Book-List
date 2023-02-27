@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7Breact-book-list%7D/static/css/main.b4a157b3.css",
+    "main.js": "/%7Breact-book-list%7D/static/js/main.d61e974c.js",
+    "static/media/img1.jpg": "/%7Breact-book-list%7D/static/media/img1.43782affb2195c91850e.jpg",
+    "static/media/img3.jpg": "/%7Breact-book-list%7D/static/media/img3.9f839f0bf35964d6e17a.jpg",
+    "static/media/img2.jpg": "/%7Breact-book-list%7D/static/media/img2.2f60cf9156d0779f9622.jpg",
+    "index.html": "/%7Breact-book-list%7D/index.html",
+    "main.b4a157b3.css.map": "/%7Breact-book-list%7D/static/css/main.b4a157b3.css.map",
+    "main.d61e974c.js.map": "/%7Breact-book-list%7D/static/js/main.d61e974c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a157b3.css",
+    "static/js/main.d61e974c.js"
+  ]
+}
