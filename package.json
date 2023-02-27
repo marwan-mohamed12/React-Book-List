@@ -1,8 +1,8 @@
 {
   "name": "react-book-list",
-  "homepage": "http://{github-username}.github.io/{repo-name}",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://{marwan-mohamed12}.github.io/{react-book-list}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
